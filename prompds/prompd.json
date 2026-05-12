@@ -1,0 +1,37 @@
+{
+  "name": "@prmd-ai/agent-pack",
+  "version": "0.0.15",
+  "description": "Prompd templates that compile into AI agent instruction files for the prmd.ai pack generator.",
+  "type": "package",
+  "author": "sbaker",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "templates",
+    "prmd",
+    "prmd.ai",
+    "agent-templates",
+    "agent-pack"
+  ],
+  "readme": "README.md",
+  "repository": "",
+  "main": "sumerize-metadata.prmd",
+  "files": [
+    "AGENTS.md",
+    "agents/a11y-agent.prmd",
+    "agents/backend-agent.prmd",
+    "agents/cli-agent.prmd",
+    "agents/code-reviewer-agent.prmd",
+    "agents/devops-agent.prmd",
+    "agents/docs-writer-agent.prmd",
+    "agents/frontend-agent.prmd",
+    "agents/security-reviewer-agent.prmd",
+    "agents/testing-agent.prmd",
+    "CLAUDE.md",
+    "copilot-instructions.md",
+    "cursor-rules.md",
+    "README.md",
+    "sumerize-metadata.prmd",
+    "agents/agent-base.prmd"
+  ]
+}

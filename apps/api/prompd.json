@@ -1,0 +1,16 @@
+{
+  "name": "prmd-ai/agent-team-generator",
+  "version": "1.0.0",
+  "description": "Generates specialized agents for development tasks.",
+  "keywords": [
+    "prmd",
+    "prmd-ai",
+    "agents",
+    "agent-teams"
+  ],
+  "author": "prmd",
+  "dependencies": {
+    "@prmd-ai/agent-pack": "0.0.15"
+  },
+  "readme": "README.md"
+}
